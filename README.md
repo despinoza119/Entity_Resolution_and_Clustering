@@ -37,9 +37,5 @@ Your task is to perform **entity resolution**, also known as record linkage, on 
 2. Install dependencies: `pip install -r requirements.txt`.
 3. Run the jupyter notebook.
 
-### Contributions
-
-### Acknowledgements
-
 ### License
 MIT
