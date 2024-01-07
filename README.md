@@ -7,7 +7,7 @@
 ## Record Linkage
 
 <p align="center">
-	<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.carlow.edu%2F2022%2F02%2F21%2Fhow-artificial-intelligence-is-shaping-data-analytics%2F&psig=AOvVaw0b1oCZHmAI-AnW3oM-dLKY&ust=1704710989886000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiDlr2Ny4MDFQAAAAAdAAAAABAD" alt="400" width="600"/>
+	<img src="https://blog.carlow.edu/wp-content/uploads/sites/26/2022/04/how-artificial-intelligence-is-shaping-data-analytics-1024x683.jpg" alt="400" width="600"/>
 </p>
 
 ### Project Overview
@@ -36,10 +36,6 @@ Your task is to perform **entity resolution**, also known as record linkage, on 
 1. Clone the repository.
 2. Install dependencies: `pip install -r requirements.txt`.
 3. Run the jupyter notebook.
-
-### Contributions
-
-### Acknowledgements
 
 ### License
 MIT
